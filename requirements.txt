@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-tavily
+datasets
+pandas
+python-dotenv
+streamlit>=1.36
